@@ -1,0 +1,10 @@
+# Compiled Object files
+*.o
+*.obj
+*.out
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
